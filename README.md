@@ -1,5 +1,4 @@
 # manikong
-this is developed for learning purpose only not for commercial refered
- from another repo https://github.com/unikong/unikong.github.io.git
-written in java script 
+this a trail purpose game which is developed using javascript and html and images 
+https://sumankathirvel.github.io/manikong/ url for game 
 web game 
